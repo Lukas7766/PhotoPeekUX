@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "Photo Peek",
+  description: "PhotoPeek – All Your Photos, One Smart Library",
 };
 
 import PageIllustration from "@/components/page-illustration";
